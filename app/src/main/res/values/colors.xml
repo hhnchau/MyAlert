@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+
+    <color name="backgroundColor">#ffffff</color>
+    <color name="titleColor">#1976D2</color>
+    <color name="messageColor">@android:color/black</color>
+    <color name="separatorColor">#2196F3</color>
+    <color name="buttonPositiveColor">@color/titleColor</color>
+    <color name="buttonNegativeColor">@color/titleColor</color>
+
+
+</resources>
